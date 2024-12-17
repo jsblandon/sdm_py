@@ -21,6 +21,6 @@ The data used comes from the following sources:
 
 * `sdm_co.ipynb` code to train a Logistic Regression model under three scenarios: without imbalance treatment, with imbalance treatment using Random Oversampling, and with imbalance treatment using the SMOTE technique.
 
-## Contacto
+## Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact me via [email](juansblandon@gmail.com).
