@@ -24,3 +24,7 @@ The data used comes from the following sources:
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact me via [email](juansblandon@gmail.com).
+
+[![DOI](https://zenodo.org/badge/898091877.svg)](https://doi.org/10.5281/zenodo.14509510)
+
+**Please cite this repo as:** Juan Sebastian Blandon. (2024). jsblandon/sdm_py: SDM plots (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14509511
